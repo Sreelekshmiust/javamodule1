@@ -7,9 +7,9 @@ oopsday2 shape contains calculating area of rectangle using interface
 oopsday3 learned polymorphism
 oopsday4 -inheritance
 oopsday5 string objects
-multithreading
-javaserialization
-exception handling
+multithreading:- consumer-producer problems
+javaserialization:- -ioserialization
+exception handling:- -checked and unchecked exceptions,json 
 learned about collections,iterators
 learned java8
 userdefined objects
