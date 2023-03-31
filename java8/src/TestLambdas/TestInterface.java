@@ -10,4 +10,5 @@ public interface TestInterface {
 	public static void method3() {
 		System.out.println("from static method");
 	}
+	
 }

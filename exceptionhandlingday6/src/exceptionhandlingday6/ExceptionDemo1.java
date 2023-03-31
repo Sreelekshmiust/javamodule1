@@ -7,12 +7,14 @@ public class ExceptionDemo1 {
 
 	public static void main(String[] args) {
 		
+		
 		/*
 		 * System.out.println("Program task begin"); int a=10; int b=0; int c=a/b;
-		 * System.out.println(c); System.out.println("Program completed task");            //without try catch
+		 * System.out.println(c); System.out.println("Program completed task");
+		 * //without try catch
 		 */
-		
-		/*System.out.println("Program task begins");
+		/*
+		System.out.println("Program task begins");
 		int a=10;
 		int b=0;
 		try {
@@ -44,3 +46,4 @@ public class ExceptionDemo1 {
 	}
 
 }
+
